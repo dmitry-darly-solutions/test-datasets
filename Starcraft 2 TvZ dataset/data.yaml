@@ -1,3 +1,4 @@
+path: '../test-datasets/Starcraft 2 TvZ dataset'
 train: images
 val: images
 
