@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: images
+val: images
+test:
 
 nc: 8
 names: ['adept', 'drone', 'overlord', 'probe', 'queen', 'roach', 'zealot', 'zergling']
