@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['adept', 'drone', 'overlord', 'probe', 'queen', 'roach', 'zealot', 'zergling']
+
+roboflow:
+  workspace: dmitrydarly
+  project: starcraft-2-tvz-test
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dmitrydarly/starcraft-2-tvz-test/dataset/1
