@@ -1,6 +1,5 @@
 train: images
 val: images
-test:
 
 nc: 8
 names: ['adept', 'drone', 'overlord', 'probe', 'queen', 'roach', 'zealot', 'zergling']
