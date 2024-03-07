@@ -1,13 +1,14 @@
-path: '../test-datasets/Baldur_Gate_3'
+path: '../Baldur_Gate_3'
 train: train/images
 val: valid/images
 test: test/images
 
-names:
-  0: Astarion
-  1: Banjovi
-  2: Haagen-Dazs
-  3: Josh
-  4: Laezel
-  5: Miss Demeanor
-  6: Shadowheart
+nc: 4
+names: ['Banjovi', 'Haagen-Dazs', 'Josh', 'miss Demeanor']
+
+roboflow:
+  workspace: dmitrydarly
+  project: baldurs-gate-3-characters
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dmitrydarly/baldurs-gate-3-characters/dataset/1
