@@ -1,10 +1,9 @@
-path: ../datasets/roboflow
-
+path: '../test-datasets/Baldur_Gate_3'
 train: train/images
 val: valid/images
 test: test/images
 
-names: 
+names:
   0: Astarion
   1: Banjovi
   2: Haagen-Dazs
