@@ -1,6 +1,7 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+path: '../Baldur_Gate_3'
+train: train/images
+val: valid/images
+test: test/images
 
 nc: 4
 names: ['Banjovi', 'Haagen-Daz', 'Josh', 'miss Demeanor']
