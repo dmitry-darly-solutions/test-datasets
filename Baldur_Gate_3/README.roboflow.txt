@@ -1,8 +1,8 @@
 
-Baldurs Gate 3 characters - v1 2024-03-07 11:58am
+Baldurs Gate 3 - v1 2024-03-08 9:42am
 ==============================
 
-This dataset was exported via roboflow.com on March 7, 2024 at 10:00 AM GMT
+This dataset was exported via roboflow.com on March 8, 2024 at 7:46 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 104 images.
+The dataset includes 99 images.
 BG3 are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
