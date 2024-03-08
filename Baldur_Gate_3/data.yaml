@@ -1,4 +1,3 @@
-path: '../Baldur_Gate_3'
 train: train/images
 val: valid/images
 test: test/images
@@ -9,6 +8,6 @@ names: ['Banjovi', 'Haagen-Daz', 'Josh', 'miss Demeanor']
 roboflow:
   workspace: dmitrydarly
   project: baldurs-gate-3
-  version: 1
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/dmitrydarly/baldurs-gate-3/dataset/1
+  url: https://universe.roboflow.com/dmitrydarly/baldurs-gate-3/dataset/2
