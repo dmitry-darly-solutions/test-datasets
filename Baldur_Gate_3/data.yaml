@@ -3,11 +3,11 @@ val: valid/images
 test: test/images
 
 nc: 4
-names: ['Banjovi', 'Haagen-Dazs', 'Josh', 'miss Demeanor']
+names: ['Banjovi', 'Haagen-Daz', 'Josh', 'miss Demeanor']
 
 roboflow:
   workspace: dmitrydarly
-  project: baldurs-gate-3-mixed
-  version: 1
+  project: baldurs-gate-3
+  version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/dmitrydarly/baldurs-gate-3-mixed/dataset/1
+  url: https://universe.roboflow.com/dmitrydarly/baldurs-gate-3/dataset/3

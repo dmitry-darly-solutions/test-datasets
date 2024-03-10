@@ -1,5 +1,5 @@
-# Baldurs Gate 3 mixed > 2024-03-08 3:33pm
-https://universe.roboflow.com/dmitrydarly/baldurs-gate-3-mixed
+# Baldurs Gate 3 > 2024-03-09 3:23am
+https://universe.roboflow.com/dmitrydarly/baldurs-gate-3
 
 Provided by a Roboflow user
 License: CC BY 4.0

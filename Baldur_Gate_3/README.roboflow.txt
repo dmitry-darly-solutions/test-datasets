@@ -1,8 +1,8 @@
 
-Baldurs Gate 3 mixed - v1 2024-03-08 3:33pm
+Baldurs Gate 3 - v3 2024-03-09 3:23am
 ==============================
 
-This dataset was exported via roboflow.com on March 8, 2024 at 1:39 PM GMT
+This dataset was exported via roboflow.com on March 9, 2024 at 1:24 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,8 +17,8 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 178 images.
-BG3_m are annotated in YOLOv8 format.
+The dataset includes 262 images.
+BG3 are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
